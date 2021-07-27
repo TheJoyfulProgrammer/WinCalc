@@ -17,6 +17,10 @@
     g++.exe -O3 -Wall -m64 -std=c++2a -c "WinCalc.cpp" -o oWinCalc.o
     g++.exe  -o bin\Release\CalculatorSC1.exe Calc_Global.o Calc_Window.o Calc_WindowProcedure.o WinCalc.o  -static-libstdc++ -m64 -lgdi32 -lgdiplus   -mwindows
 
+
+    Currently, this project is setup in the Code::Blocks IDE for those beginners
+    who wishes to use that IDE to compile the project. To open this project in
+    Code::Blocks, simply open the WinCalc.cbp file in Code::Blocks.
 */
 
 #include <windows.h>

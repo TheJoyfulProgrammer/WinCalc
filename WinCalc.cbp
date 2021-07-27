@@ -2,12 +2,14 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="CalculatorSC1" />
+		<Option title="WinCalc" />
+		<Option platforms="Windows;" />
 		<Option pch_mode="2" />
 		<Option compiler="tdm-gcc" />
+		<Option extended_obj_names="1" />
 		<Build>
 			<Target title="Release">
-				<Option output="bin/Release/CalculatorSC1" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/WinCalc" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="0" />
 				<Option compiler="tdm-gcc" />
