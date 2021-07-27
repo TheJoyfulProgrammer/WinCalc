@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1626707022 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\calculatorsc1\calculatorsc1.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_Window.hpp"
+	"Calc_Global.hpp"
+
+1627351438 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\calculatorsc1\calc_windowprocedure.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_Menus.hpp"
+
+1626773280 f:\0010 - c++\waltersmind - calculators\windows standard controls\calculatorsc1\calc_window.hpp
+
+1626764223 f:\0010 - c++\waltersmind - calculators\windows standard controls\calculatorsc1\calc_windowprocedure.hpp
+
+1626778543 f:\0010 - c++\waltersmind - calculators\windows standard controls\calculatorsc1\calc_global.hpp
+
+1626781623 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\calculatorsc1\calc_window.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_WindowProcedure.hpp"
+	"Calc_Global.hpp"
+
+1626764826 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\calculatorsc1\calc_global.cpp
+	<windows.h>
+
+1627351389 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\calculatorsc1\wincalc.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_Global.hpp"
+	"Calc_Window.hpp"
+
+1626818364 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\calculatorsc1\calc_menus.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_Menus.hpp"
+
+1627353614 f:\0010 - c++\waltersmind - calculators\windows standard controls\calculatorsc1\calc_menus.hpp
+	<windows.h>
+	<string>
+
+1626764826 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_global.cpp
+	<windows.h>
+
+1626781623 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_window.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_WindowProcedure.hpp"
+	"Calc_Global.hpp"
+
+1626764223 f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_windowprocedure.hpp
+
+1626778543 f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_global.hpp
+
+1627355606 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_windowprocedure.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_Menus.hpp"
+
+1627353614 f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_menus.hpp
+	<windows.h>
+	<string>
+
+1627351389 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\wincalc.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_Global.hpp"
+	"Calc_Window.hpp"
+
+1626773280 f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_window.hpp
+

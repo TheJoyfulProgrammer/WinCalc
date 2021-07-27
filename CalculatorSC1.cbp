@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CalculatorSC1" />
+		<Option pch_mode="2" />
+		<Option compiler="tdm-gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/CalculatorSC1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="tdm-gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-Wall" />
+					<Add option="-m64" />
+					<Add option="-std=c++2a" />
+				</Compiler>
+				<Linker>
+					<Add option="-static-libstdc++" />
+					<Add option="-m64" />
+					<Add option="-lgdi32" />
+					<Add option="-lgdiplus" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="Calc_Global.cpp" />
+		<Unit filename="Calc_Global.hpp" />
+		<Unit filename="Calc_Menus.cpp" />
+		<Unit filename="Calc_Menus.hpp" />
+		<Unit filename="Calc_Window.cpp" />
+		<Unit filename="Calc_Window.hpp" />
+		<Unit filename="Calc_WindowProcedure.cpp" />
+		<Unit filename="Calc_WindowProcedure.hpp" />
+		<Unit filename="LICENSE" />
+		<Unit filename="NOTICE" />
+		<Unit filename="WinCalc.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
