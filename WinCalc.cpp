@@ -15,7 +15,7 @@
     g++.exe -O3 -Wall -m64 -std=c++2a -c "Calc_Window.cpp" -o Calc_Window.o
     g++.exe -O3 -Wall -m64 -std=c++2a -c "Calc_WindowProcedure.cpp" -o Calc_WindowProcedure.o
     g++.exe -O3 -Wall -m64 -std=c++2a -c "WinCalc.cpp" -o oWinCalc.o
-    g++.exe  -o bin\Release\CalculatorSC1.exe Calc_Global.o Calc_Window.o Calc_WindowProcedure.o WinCalc.o  -static-libstdc++ -m64 -lgdi32 -lgdiplus   -mwindows
+    g++.exe  -o WinCalc.exe Calc_Global.o Calc_Window.o Calc_WindowProcedure.o WinCalc.o  -static-libstdc++ -m64 -lgdi32 -lgdiplus   -mwindows
 
 
     Currently, this project is setup in the Code::Blocks IDE for those beginners
