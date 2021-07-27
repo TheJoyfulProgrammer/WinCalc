@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1626764826 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_global.cpp
+	<windows.h>
+
+1627355780 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_menus.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_Menus.hpp"
+
+1627353614 f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_menus.hpp
+	<windows.h>
+	<string>
+
+1626781623 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_window.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_WindowProcedure.hpp"
+	"Calc_Global.hpp"
+
+1626764223 f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_windowprocedure.hpp
+
+1626778543 f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_global.hpp
+
+1627355606 source:f:\0010 - c++\waltersmind - calculators\windows standard controls\wincalc\calc_windowprocedure.cpp
+	<windows.h>
+	<string>
+	<cwchar>
+	"Calc_Menus.hpp"
+
